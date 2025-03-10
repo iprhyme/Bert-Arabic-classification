@@ -1,6 +1,7 @@
 # Bert-Arabic-classification
 
 📋 Project Overview
+
 1️⃣ Dataset
 The KALIMAT Corpus contains Arabic texts from the Alwatan newspaper across six categories:
 Culture, Economy, International News, Local News, Religion, Sports.
